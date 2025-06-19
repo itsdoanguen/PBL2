@@ -1,0 +1,9 @@
+ADMIN;ADMIN;ADMIN;0;
+DR0001;hoangluan;ho@nglu@n;1;
+DR0002;vanton;vanton;1;
+DR0003;quangdung;qu@ngdung;1;
+AS0001;doannguyen;doannguyen;2;
+PT0001;nguyena;nguyena123;3;
+PT0002;nguyenb;nguyenb123;3;
+PT0003;nguyenc;nguyenc123;3;
+PT0004;nguyend;nguyend123;3

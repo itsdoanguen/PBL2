@@ -1,0 +1,3 @@
+DR0001;Nguyen Huu Hoang Luan;05-07-1980;Nam;0924-231-234;hoangluan@dut.hospital.com;123 Son Tra St;Nha Khoa;
+DR0002;Ton That Van;05-10-1975;Nam;0812-312-333;vanton@dut.hospital.com;43 KTX St;Nha Khoa;
+DR0003;Tran Quang Dung;03-05-1982;Nam;0555-133-423;qdung@dut.hospital.com;78 Ngu Hanh Son St;Nha Khoa;
